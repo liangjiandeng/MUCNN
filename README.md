@@ -1,12 +1,12 @@
-## [SSconv: Explicit Spectral-to-Spatial Convolution for Pansharpening, ACM MM, 2021](https://github.com/liangjiandeng/liangjiandeng.github.io/tree/master/papers/2021/mucnn_mm2021.pdf)
+## [SSconv: Explicit Spectral-to-Spatial Convolution for Pansharpening](https://github.com/liangjiandeng/liangjiandeng.github.io/tree/master/papers/2021/mucnn_mm2021.pdf)
 
 **Homepage:** https://liangjiandeng.github.io/
 
-- Code for the paper:"SSconv: Explicit Spectral-to-Spatial Convolution for Pansharpening"
+- Code for the paper:"SSconv: Explicit Spectral-to-Spatial Convolution for Pansharpening, ACMMM, 2021"
 - State-of-the-art pansharpening performance
 
 
-# Methods
+# Method
 
 ![flowchart](images_for_show/02-flowchart-MUCNN.png)
 
@@ -40,7 +40,7 @@
 
 ![1627557443029](images_for_show/1627557443029.png)
 
-#### Visual results
+### Visual results
 
 ![1627557509836](images_for_show/1627557509836.png)
 
