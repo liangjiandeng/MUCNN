@@ -4,11 +4,11 @@
 
 - Code for the paper:"SSconv: Explicit Spectral-to-Spatial Convolution for Pansharpening"
 - State-of-the-art pansharpening performance
-- ![1627556460363](images_for_show\1627557326610.png)
+- ![1627556460363](images_for_show/1627557326610.png)
 
 # Methods
 
-![flowchart](images_for_show\02-flowchart-MUCNN.png)
+![flowchart](images_for_show/02-flowchart-MUCNN.png)
 
 # Pytorch training and testing code 2021/07/29
 
