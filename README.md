@@ -24,23 +24,21 @@ Because we use GPU CUDA for training by default, the modules about CUDA in the c
 
 # Pansharpening results
 
-- ![1627556460363](images_for_show/1627557326610.png)
-
 ### Quantity results
 
-**test on the simulated images from WV3**
+**Test on the simulated images from WV3**
 
 ![1627557326610](images_for_show/1627557326610.png)
 
-**test on the full resolution images from WV3**
+**Test on the full resolution images from WV3**
 
 ![1627557378337](images_for_show/1627557378337.png)
 
-**test on the data from GaoFen-2**
+**Test on the data from GaoFen-2**
 
 ![1627557443029](images_for_show/1627557443029.png)
 
-#### visual results
+#### Visual results
 
 ![1627557509836](images_for_show/1627557509836.png)
 
