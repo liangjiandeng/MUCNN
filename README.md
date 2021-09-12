@@ -28,23 +28,23 @@ Because we use GPU CUDA for training by default, the modules about CUDA in the c
 
 **test on the simulated images from WV3**
 
-![1627557326610](images_for_show\1627557326610.png)
+![1627557326610](images_for_show/1627557326610.png)
 
 **test on the full resolution images from WV3**
 
-![1627557378337](images_for_show\1627557378337.png)
+![1627557378337](images_for_show/1627557378337.png)
 
 **test on the data from GaoFen-2**
 
-![1627557443029](images_for_show\1627557443029.png)
+![1627557443029](images_for_show/1627557443029.png)
 
 #### visual results
 
-![1627557509836](images_for_show\1627557509836.png)
+![1627557509836](images_for_show/1627557509836.png)
 
-![1627557529777](images_for_show\1627557529777.png)
+![1627557529777](images_for_show/1627557529777.png)
 
-![1627557542133](images_for_show\1627557542133.png)
+![1627557542133](images_for_show/1627557542133.png)
 
 # Citation
 
