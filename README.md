@@ -2,7 +2,7 @@
 
 **Homepage:** https://liangjiandeng.github.io/
 
-- Code for the paper:"SSconv: Explicit Spectral-to-Spatial Convolution for Pansharpening, ACMMM, 2021"
+- Code for the paper:"Yudong Wang, Liang-Jian Deng*, Tian-Jing Zhang, Xiao Wu, 'SSconv: Explicit Spectral-to-Spatial Convolution for Pansharpening', ACMMM, 2021"
 - State-of-the-art pansharpening performance
 
 
