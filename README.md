@@ -4,7 +4,7 @@
 
 - Code for the paper:"SSconv: Explicit Spectral-to-Spatial Convolution for Pansharpening"
 - State-of-the-art pansharpening performance
-- ![1627556460363](images_for_show/1627557326610.png)
+
 
 # Methods
 
@@ -24,7 +24,9 @@ Because we use GPU CUDA for training by default, the modules about CUDA in the c
 
 # Pansharpening results
 
-### quantity results
+- ![1627556460363](images_for_show/1627557326610.png)
+
+### Quantity results
 
 **test on the simulated images from WV3**
 
